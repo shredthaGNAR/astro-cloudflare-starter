@@ -1,4 +1,6 @@
 {
+// wrangler.jsonc
+"name": "astro-cloudflare-starter",
 	"$schema": "https://schema.cloudflare.com/wrangler/2024-10-01",
 	"name": "astro-cloudflare",
 	"compatibility_date": "2026-06-24",
